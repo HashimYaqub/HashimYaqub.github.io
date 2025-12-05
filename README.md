@@ -8,6 +8,7 @@
 - **Phone**: +44 07717357162
 - **Location**: Bath, UK
 - **CV**: [Up To Date CV](https://docs.google.com/document/d/1YMCiovFi-kVd5xoSzKqKKqVRtnWtmQ42y3KMZalCHQM/edit?usp=sharing)
+- **LinkedIn**: [Hashim Yaqub LinkedIn](www.linkedin.com/in/hashim-yaqub-5b2aa9187)
 - **GitHub**: [https://github.com/HashimYaqub](https://github.com/HashimYaqub)
 
 
