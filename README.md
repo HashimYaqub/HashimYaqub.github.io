@@ -1,3 +1,4 @@
+
 # Dr. Hashim Khalid Yaqub
 ## Innovative Software Engineer | VR/AR/MR Specialist
 
@@ -28,6 +29,24 @@ Innovative software engineer with 11+ years of experience building VR/AR/MR appl
 - **Python, Java, C, HTML, CSS, JavaScript**
 - **Shell and Bash Scripting**
 
+### 🚀 Featured Projects
+
+| | | |
+|---|---|---|
+| **🏥 VR Surgical Training Platform - FundamentalVR**<br>[![VR Surgical Training](https://img.youtube.com/vi/7iwGhJvLUwY/default.jpg)](https://youtu.be/7iwGhJvLUwY?si=sICKEqpFRo1O3kQ8)<br>Advanced VR surgical training system with haptic feedback integration for medical education and professional development.<br>**Technologies**: Unity3D, C#, SteamVR, Oculus SDK, 3D Systems Touch Haptics | **🚢 Maritime Training Simulation**<br>[![Maritime Training](https://img.youtube.com/vi/dbQ3eobREqM/default.jpg)](https://youtu.be/dbQ3eobREqM?si=pzYm4NX7DQN39NwH)<br>Immersive VR training system for maritime operations and ship navigation procedures.<br>**Technologies**: Unity3D, C#, HTC VIVE, Custom Maritime Systems | **🔥 Fire Safety & Evacuation Training**<br>[![Fire Safety Training](https://img.youtube.com/vi/nkS0prVBlFY/default.jpg)](https://youtu.be/nkS0prVBlFY?si=fry3wCiwRzuVrwq6)<br>Interactive VR fire safety training application designed for industrial and commercial environments.<br>**Technologies**: Unity3D, C#, VR Physics Systems, Particle Effects |
+| **🎯 Advanced VR Interaction Systems**<br>[![VR Interaction Demo](https://img.youtube.com/vi/LG57gNhUMS0/default.jpg)](https://www.youtube.com/watch?v=LG57gNhUMS0)<br>Demonstration of advanced hand tracking and object manipulation in VR environments.<br>**Technologies**: Unity3D, C#, Hand Tracking APIs, Physics Systems | **🏭 Industrial Training Platform**<br>[![Industrial Training](https://img.youtube.com/vi/7awoYRqz3bo/default.jpg)](https://www.youtube.com/watch?v=7awoYRqz3bo&t=142s)<br>Comprehensive VR training system for industrial equipment operation and safety procedures.<br>**Technologies**: Unity3D, C#, Industrial IoT Integration, Data Analytics | **🎮 Interactive VR Experience Design**<br>[![VR Experience](https://img.youtube.com/vi/52PvSYEZMzE/default.jpg)](https://youtu.be/52PvSYEZMzE?si=B9XJ_jQ_pb65Yuxy)<br>Creative VR experience showcasing advanced interaction design and user engagement principles.<br>**Technologies**: Unity3D, C#, Spatial Audio, Advanced Shaders |
+| **🚁 Flight Simulation & Training**<br>[![Flight Simulation](https://img.youtube.com/vi/e3pDzV2n2d8/default.jpg)](https://www.youtube.com/watch?v=e3pDzV2n2d8)<br>Realistic flight training simulator with comprehensive aircraft systems modeling.<br>**Technologies**: Unity3D, C#, Flight Physics, Instrument Simulation | **🎨 Creative VR Showcase**<br>[![Creative VR](https://img.youtube.com/vi/a0u4J5nCO2Y/default.jpg)](https://www.youtube.com/watch?v=a0u4J5nCO2Y)<br>Artistic VR experience demonstrating creative applications of immersive technology.<br>**Technologies**: Unity3D, C#, Procedural Generation, Visual Effects | **📚 AAO VR Education Platform**<br>[![AAO VR Education](https://via.placeholder.com/120x90/1e1e1e/ffffff?text=AAO+VR)](https://www.meta.com/en-gb/experiences/aao-vr-education/6941598002588612/)<br>Educational VR platform available on Meta Quest store, focusing on interactive learning experiences.<br>**Technologies**: Unity3D, C#, Meta SDK, Educational Content Systems |
+
+### 🎥 Project Demonstrations
+All projects include comprehensive video demonstrations showcasing key features, user interactions, and technical implementations. These videos highlight the practical applications and user experience design principles applied in each project.
+
+### 🏆 Project Impact
+- **Medical Training**: Improved surgical training efficiency and reduced training costs
+- **Industrial Safety**: Enhanced safety protocol compliance and reduced workplace incidents
+- **Educational Technology**: Increased student engagement and learning retention
+- **Defense Applications**: Advanced training capabilities for complex operational scenarios
+
+
 #### Specialized Technologies
 - **Haptics Integration** (3D Systems Touch, peripheral devices)
 - **Networking** (Photon PUN2)
@@ -53,14 +72,14 @@ Innovative software engineer with 11+ years of experience building VR/AR/MR appl
 
 ### 🎓 Education
 
--  Engineering Doctorate (EngD) in Computer Science ||
-**University of Bath** | **2012 - 2018** | **Passed**
+- Engineering Doctorate (EngD) in Computer Science ||
+  **University of Bath** | **2012 - 2018** | **Passed**
 
 - Master of Science in Computing and Internet Systems ||
-**Bangor University** | **2010 - 2011** | **Distinction**
+  **Bangor University** | **2010 - 2011** | **Distinction**
 
 - Bachelor of Science in Psychology ||
-**Bangor University** | **2007 - 2010** | **2:1 Honours**
+  **Bangor University** | **2007 - 2010** | **2:1 Honours**
 
 ---
 
@@ -77,9 +96,6 @@ Innovative software engineer with 11+ years of experience building VR/AR/MR appl
 - **Hackathon Participation**: Global Game Jam, CDE Resjam for Alzheimer's Research, Bath Digital Festival
 
 ---
-
-### 🚀 Featured Projects
-
 
 
 ### 📬 Let's Connect!
