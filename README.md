@@ -44,6 +44,14 @@ All projects include comprehensive video demonstrations showcasing key features,
 | **🎯 Advanced VR Interaction Systems**<br>[![VR Interaction Demo](https://img.youtube.com/vi/LG57gNhUMS0/default.jpg)](https://www.youtube.com/watch?v=LG57gNhUMS0)<br/><br>Demonstration of advanced hand tracking and object manipulation in VR environments.<br>**Technologies**: Unity3D, C#, Hand Tracking APIs, Physics Systems | **🏭 Industrial Training Platform**<br>[![Industrial Training](https://img.youtube.com/vi/7awoYRqz3bo/default.jpg)](https://www.youtube.com/watch?v=7awoYRqz3bo&t=142s)<br>Comprehensive VR training system for industrial equipment operation and safety procedures.<br>**Technologies**: Unity3D, C#, Industrial IoT Integration, Data Analytics | **🎮 Interactive VR Experience Design**<br>[![VR Experience](https://img.youtube.com/vi/52PvSYEZMzE/default.jpg)](https://youtu.be/52PvSYEZMzE?si=B9XJ_jQ_pb65
 
 
+### 🕹️ Personal Projects
+A selection of independent experiments and game design projects.
+
+| | |
+|---|---|
+| **🧩 No Fuss Sudoku**<br><details><summary><img src="https://img.itch.zone/aW1hZ2UvNDEzNjI4NC8yNDc2MDgwOC5wbmc=/original/v2ZMbM.png" width="120" alt="No Fuss Sudoku"><br><b>[ ▶️ Play Demo ]</b></summary><br><iframe src="https://itch.io/embed-upload/4311186?color=333333" width="100%" height="500" frameborder="0" allowfullscreen></iframe></details><br>A clean, distraction-free Sudoku experience built with a focus on UX and minimalist design.<br>**Technologies**: C#, Unity, WebGL
+
+
 ### 🏆 Project Impact
 - **Medical Training**: Improved surgical training efficiency and reduced training costs
 - **Industrial Safety**: Enhanced safety protocol compliance and reduced workplace incidents
