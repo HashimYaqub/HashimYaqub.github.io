@@ -42,7 +42,7 @@ All projects include comprehensive video demonstrations showcasing key features,
 
 
 ### 🔬 Research Publications
-Academic contributions to the field of Human-Computer Interaction
+    Academic contributions to the field of Human-Computer Interaction
 
 | | |
 |---|---|
@@ -51,11 +51,11 @@ Academic contributions to the field of Human-Computer Interaction
 
 ### 🕹️ Personal Projects
 
-A selection of independent experiments and game design projects.
+    A selection of independent experiments and game design projects.
 
 | | |
 |---|---|
-| **🧩 No Fuss Sudoku**<br><details><summary><img src="https://img.itch.zone/aW1hZ2UvNDEzNjI4NC8yNDc2MDgwOC5wbmc=/original/v2ZMbM.png" width="120" alt="No Fuss Sudoku"><br><b>[ ▶️ Play Demo ]</b></summary><br><iframe src="https://itch.io/embed-upload/4311186?color=333333" width="100%" height="500" frameborder="0" allowfullscreen></iframe></details><br>A clean, distraction-free Sudoku experience built with a focus on UX and minimalist design.<br>**Technologies**: C#, Unity, WebGL
+| **🧩 No Fuss Sudoku**<br><details><summary><img src="https://img.itch.zone/aW1hZ2UvNDEzNjI4NC8yNDc2MDgwOC5wbmc=/original/v2ZMbM.png" width="120" alt="No Fuss Sudoku"><br><b>[ ▶️ Play Demo ]</b></summary><br><iframe src="https://itch.io/embed-upload/4311186?color=333333" width="100%" height="500" frameborder="0" allowfullscreen></iframe></details><br>A clean, distraction-free Sudoku experience built with a focus on UX and minimalist design.<br>**Technologies**: C#, Unity, WebGL, [GitHub Actions](https://github.com/Maldoran-Gaming/Maldoran-Gaming-Utilities/tree/main/.github/workflows) | **🛠️ Maldoran Gaming Utilities**<br>[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Maldoran-Gaming/Maldoran-Gaming-Utilities)<br>A collection of reusable utilities and CI/CD workflows for Unity projects to streamline development and deployment.<br>**Technologies**: GitHub Actions, YAML, C#, Unity |
 
 
 ### 🏆 Project Impact
