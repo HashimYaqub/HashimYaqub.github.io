@@ -11,6 +11,7 @@
 - **CV**: [Up To Date CV](https://docs.google.com/document/d/1YMCiovFi-kVd5xoSzKqKKqVRtnWtmQ42y3KMZalCHQM/edit?usp=sharing)
 - **LinkedIn**: [Hashim Yaqub LinkedIn](www.linkedin.com/in/hashim-yaqub-5b2aa9187)
 - **GitHub**: [https://github.com/HashimYaqub](https://github.com/HashimYaqub)
+- **Maldoran Gaming: **[Maldoran Gaming - itch.io](https://maldoran.itch.io/)
 
 
 ---
@@ -23,6 +24,7 @@ Innovative software engineer with 11+ years of experience building VR/AR/MR appl
 ### 🛠️ Core Technical Skills
 
 #### Programming & Development
+
 - **Unity3D & C#** (Expert level)
 - **VR/AR/MR Development** (Quest, Vive, Windows MR, OpenXR)
 - **Cross-platform XR Applications**
@@ -30,21 +32,25 @@ Innovative software engineer with 11+ years of experience building VR/AR/MR appl
 - **Shell and Bash Scripting**
 
 ### 🎥 Project Demonstrations
-All projects include comprehensive video demonstrations showcasing key features, user interactions, and technical implementations. These videos highlight the practical applications and user experience design principles applied in each project.
+All projects include comprehensive video demonstrations showcasing key features, user interactions, and technical implementations. These videos highlight the practical applications and user experience design principles applied in each project. All projects include comprehensive video demonstrations showcasing key features, user interactions, and technical implementations. These videos highlight the practical applications and user experience design principles applied in each project.
 
 | | | |
 |---|---|---|
-| **👁️ Orbis VR Eye Surgery Training**<br>[![Orbis VR Training](https://img.mashable.com/videos/oHto6R0Lds2/preview.jpg)](https://mashable.com/video/vr-eye-surgey-training-orbis)<br>Revolutionary VR platform training ophthalmologists worldwide, demonstrating the power of virtual reality in medical education. | **🏥 VR Surgical Training**<br>[![VR Surgical Training](https://img.youtube.com/vi/7iwGhJvLUwY/default.jpg)](https://youtu.be/7iwGhJvLUwY?si=sICKEqpFRo1O3kQ8)<br>Showcasing advanced haptic feedback integration and precise surgical tool manipulation. | **🚢 Maritime Operations**<br>[![Maritime Training](https://img.youtube.com/vi/dbQ3eobREqM/default.jpg)](https://youtu.be/dbQ3eobREqM?si=pzYm4NX7DQN39NwH)<br>Demonstration of complex maritime operation simulations and navigation scenarios. |
+| **👁️ Orbis VR Eye Surgery Training**<br>[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0C_yIaNgCn8TaRl8WS1nKxPewGqK7kNZ8Bw&s" alt="Orbis VR Training" style="zoom:67%;" />](https://mashable.com/video/vr-eye-surgey-training-orbis)<br>Revolutionary VR platform training ophthalmologists worldwide, enabling practice of delicate eye surgery procedures in a risk-free environment.<br>**Technologies**: Unity3D, C#, VR Haptics, Medical Simulation | **🏥 VR Surgical Training Platform - FundamentalVR**<br>[<img src="https://app.ashbyhq.com/api/images/org-theme-social/e30fd9f6-f14f-46ed-a96f-8a2e7cd6d7b7/c1ae6c7a-0cb7-4a1d-926f-4ceec25b21b7/0b8d371a-f720-439c-a5fa-2ced4e3f3e1a.png" alt="VR Surgical Training" style="zoom:25%;" />](https://www.youtube.com/watch?v=a0u4J5nCO2Y)<br/><br>Advanced VR surgical training system with haptic feedback integration for medical education and professional development.<br>**Technologies**: Unity3D, C#, SteamVR, Oculus SDK, 3D Systems Touch Haptics | **🚢 Maritime Training Simulation**<br>[![Maritime Training](https://img.youtube.com/vi/dbQ3eobREqM/default.jpg)](https://youtu.be/dbQ3eobREqM?si=pzYm4NX7DQN39NwH)<br/><br>Immersive VR training system for maritime operations and ship navigation procedures.<br>**Technologies**: Unity3D, C#, HTC VIVE, Custom Maritime Systems |
+| **🎯 Advanced VR Interaction Systems**<br>[![VR Interaction Demo](https://img.youtube.com/vi/LG57gNhUMS0/default.jpg)](https://www.youtube.com/watch?v=LG57gNhUMS0)<br/><br>Demonstration of advanced hand tracking and object manipulation in VR environments.<br>**Technologies**: Unity3D, C#, Hand Tracking APIs, Physics Systems | **🏭 Industrial Training Platform**<br>[![Industrial Training](https://img.youtube.com/vi/7awoYRqz3bo/default.jpg)](https://www.youtube.com/watch?v=7awoYRqz3bo&t=142s)<br>Comprehensive VR training system for industrial equipment operation and safety procedures.<br>**Technologies**: Unity3D, C#, Industrial IoT Integration, Data Analytics | **🎮 Interactive VR Experience Design**<br>[![VR Experience](https://img.youtube.com/vi/52PvSYEZMzE/default.jpg)](https://youtu.be/52PvSYEZMzE?si=B9XJ_jQ_pb65|
 
-All projects include comprehensive video demonstrations showcasing key features, user interactions, and technical implementations. These videos highlight the practical applications and user experience design principles applied in each project.
 
-| | | |
-|---|---|---|
-| **👁️ Orbis VR Eye Surgery Training**<br>[![Orbis VR Training](https://img.mashable.com/videos/oHto6R0Lds2/preview.jpg)](https://mashable.com/video/vr-eye-surgey-training-orbis)<br>Revolutionary VR platform training ophthalmologists worldwide, enabling practice of delicate eye surgery procedures in a risk-free environment.<br>**Technologies**: Unity3D, C#, VR Haptics, Medical Simulation | **🏥 VR Surgical Training Platform - FundamentalVR**<br>[![VR Surgical Training](https://img.youtube.com/vi/7iwGhJvLUwY/default.jpg)](https://youtu.be/7iwGhJvLUwY?si=sICKEqpFRo1O3kQ8)<br/><br>Advanced VR surgical training system with haptic feedback integration for medical education and professional development.<br>**Technologies**: Unity3D, C#, SteamVR, Oculus SDK, 3D Systems Touch Haptics | **🚢 Maritime Training Simulation**<br>[![Maritime Training](https://img.youtube.com/vi/dbQ3eobREqM/default.jpg)](https://youtu.be/dbQ3eobREqM?si=pzYm4NX7DQN39NwH)<br/><br>Immersive VR training system for maritime operations and ship navigation procedures.<br>**Technologies**: Unity3D, C#, HTC VIVE, Custom Maritime Systems |
-| **🎯 Advanced VR Interaction Systems**<br>[![VR Interaction Demo](https://img.youtube.com/vi/LG57gNhUMS0/default.jpg)](https://www.youtube.com/watch?v=LG57gNhUMS0)<br/><br>Demonstration of advanced hand tracking and object manipulation in VR environments.<br>**Technologies**: Unity3D, C#, Hand Tracking APIs, Physics Systems | **🏭 Industrial Training Platform**<br>[![Industrial Training](https://img.youtube.com/vi/7awoYRqz3bo/default.jpg)](https://www.youtube.com/watch?v=7awoYRqz3bo&t=142s)<br>Comprehensive VR training system for industrial equipment operation and safety procedures.<br>**Technologies**: Unity3D, C#, Industrial IoT Integration, Data Analytics | **🎮 Interactive VR Experience Design**<br>[![VR Experience](https://img.youtube.com/vi/52PvSYEZMzE/default.jpg)](https://youtu.be/52PvSYEZMzE?si=B9XJ_jQ_pb65
+
+### 🔬 Research Publications
+Academic contributions to the field of Human-Computer Interaction
+
+| | |
+|---|---|
+| **🤢 Reducing Viction in HMDs**<br>[![Research Paper](https://img.shields.io/badge/ResearchGate-Publication-00ccbb?style=for-the-badge&logo=researchgate)](https://www.researchgate.net/publication/333339253_Reducing_Head_Mounted_Display_VR_Sickness_Through_Dynamic_Field_of_View_Constriction)<br>Investigation into reducing VR sickness through dynamic Field of View (FoV) constriction during locomotion.<br>**Focus**: HCI, Cyber-sickness, Unity3D, User Studies | **🚢 STEM for All: SS Freshspring**<br><video width="100%" controls><source src="https://www.dropbox.com/scl/fi/z79suke2x9ytuzrls0xg3/BMT-STEM.mp4?rlkey=44c8hc5chu93a7jh4x3d3lbn0&st=ssvocsnv&raw=1" type="video/mp4">Your browser does not support the video tag.</video><br>Developing an accessible VR tour of a historic steamship to promote STEM education for all audiences.<br>**Focus**: Accessibility, Educational VR, Cultural Heritage |
 
 
 ### 🕹️ Personal Projects
+
 A selection of independent experiments and game design projects.
 
 | | |
@@ -115,7 +121,7 @@ I'm always interested in discussing VR/AR projects, technical leadership opportu
 
 - 📧 Email me at hashimkyaqub@gmail.com
 - 📱 Call/WhatsApp: +44 07717357162
-- 💼 Connect with me on LinkedIn
+- 💼 Connect with me on [LinkedIn](www.linkedin.com/in/hashim-yaqub-5b2aa9187)
 
 ---
 
